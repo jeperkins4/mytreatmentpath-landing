@@ -65,7 +65,7 @@ cp ../medical-research-tracker/landing-page/index.html .
 # Commit and push
 git add .
 git commit -m "Update landing page"
-git push origin master
+git push origin main
 
 # Vercel auto-deploys!
 ```
