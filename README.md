@@ -1,6 +1,11 @@
-# MyTreatmentPath Landing Page
+# MyTreatmentPath - Marketing Website
 
-Professional marketing website with download links for the Electron app.
+**Public-facing landing page** for MyTreatmentPath desktop application.
+
+> **💻 Desktop App Code:** See [medical-research-tracker](https://github.com/jeperkins4/medical-research-tracker) repo  
+> **📥 Download App:** See [Releases](https://github.com/jeperkins4/medical-research-tracker/releases)
+
+This repo contains ONLY the static marketing website (HTML/CSS/JS). The actual Electron desktop application lives in the main repo.
 
 ## Quick Deploy to Netlify (5 minutes)
 
